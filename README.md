@@ -20,6 +20,13 @@ A simple heartbeat monitoring system that detects when services fail to send exp
 
 ## Setup
 
+Clone the repository:
+
+```bash
+git clone https://github.com/anshuldishoriya/merito-assignment
+cd merito-assignment
+```
+
 No installation is required. The project uses only Python's standard library.
 
 Ensure you have Python 3.7 or higher installed:
